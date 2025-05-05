@@ -1,0 +1,2 @@
+#define OPENAIC_API __declspec(dllexport)
+#define OPENAIC_API __declspec(dllimport)
